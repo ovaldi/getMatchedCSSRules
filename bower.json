@@ -1,0 +1,19 @@
+{
+  "name": "getMatchedCSSRules",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Ovaldi/getMatchedCSSRules",
+  "authors": [
+    "Raoh <232280074@qq.com>"
+  ],
+  "description": "getMatchedCSSRules for Firefox, IE and Chrome",
+  "keywords": [
+    "getMatchedCSSRules",
+    "for",
+    "Firefox",
+    "IE",
+    "and",
+    "Chrome"
+  ],
+  "license": "MIT"
+}
